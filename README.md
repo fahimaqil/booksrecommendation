@@ -17,7 +17,7 @@ Recommender system for books suggestion using SVD.
 
 ![Alt](/rate.png)
 
-
+*database source: https://www.kaggle.com/jealousleopard/goodreadsbooks
 
 
 
