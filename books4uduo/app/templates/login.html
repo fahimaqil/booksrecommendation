@@ -1,8 +1,9 @@
 {%extends "layout.html"%}
 {%block content%}
-       
        <section id="jumbo">        
               <div class="container  ">
+
+                <br>
                 <p class="h1 mb-4">Login</p>
                 <form method="POST" action="" >
                   {{form.hidden_tag()}}
@@ -42,11 +43,14 @@
                   </fieldset>
                   <div class='form-group'>
                       {{form.submit(class="btn btn-outline-info")}}
-
+                      
                     </div>
                   </form>
-                  
+                  <hr>
+                  <a href="{{url_for('index')}}" class="btn btn-info" role="button">Return home</a>
 
+
+                  
               
 
 
