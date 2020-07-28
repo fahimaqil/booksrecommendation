@@ -13,6 +13,11 @@ Recommender system for books suggestion using SVD.
 
 ![Alt](/rating.png)
 
+* Example of books suggestion
+
+![Alt](/rate.png)
+
+
 
 
 
